@@ -36,18 +36,6 @@ Lancer la commande suivante :
 
 `$ python trainModel.py`
 
-## Generer les graphiques de suivi de métriques
-Changer les chemins si nécessaire :
-
-| Attribut | Description                    |
-| ------------- | ------------------------------ |
-| `pathLogs`      | Destination ou est notre fichier de métriques au format CSV      |
-| `pathSaveGraph`   | Chemin ou on va sauvegarder    |
-
-Lancer la commande suivante :
-
-`$ python generateMetrics.py`
-
 ## Generer la matrice de confusion
 Changer les chemins si nécessaire :
 
